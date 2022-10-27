@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+:root {
+    background-color: #191919;
+}
+
+.main {
+    color: white;
+    font-family: 'Roboto Mono'!important;
+    text-align: center;
+    padding: 15%;
+}
+
+.go-back {
+    text-decoration: none;
+    color: white;
+}
+
+.go-back:hover {
+    color: aqua;
+}
