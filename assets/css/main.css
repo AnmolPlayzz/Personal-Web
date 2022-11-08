@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 :root {
-    background-color: #191919;
+    background-color: #18192c;
 }
 
 .container {
@@ -13,11 +13,12 @@
 
 .text-name {
     font-size: 400%;
+    color: #ff4f4f
 }
 
 .text-desc {
     font-size: 20px;
-    padding: 1%;    
+    padding: 1%;
 }
 
 .social-links {
@@ -36,5 +37,5 @@ a {
 }
 
 a:hover {
-    color: aqua;
+    color: aquamarine;
 }
