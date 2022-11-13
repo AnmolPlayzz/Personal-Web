@@ -1,7 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 :root {
-    background-color: #18192c;
+    background-image: url(../images/bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 48%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    width: 90%;
 }
 
 .container {
