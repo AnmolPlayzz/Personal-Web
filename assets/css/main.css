@@ -31,7 +31,7 @@ body {
 .text-desc {
     font-size: 20px;
     padding: 1%;
-    rgba(167,139,250,var(--tw-text-opacity))
+    color: rgba(167,139,250,var(--tw-text-opacity))
 }
 
 .social-links {
