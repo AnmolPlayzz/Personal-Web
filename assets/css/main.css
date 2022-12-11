@@ -11,6 +11,11 @@
     align-items: center;
 }
 
+@font-face {
+    font-family: 'PixelCode';
+    src: url(../fonts/PixelCode.woff2) format('woff2');
+}
+
 body {
     width: 90%;
     background-color: transparent;
@@ -18,7 +23,7 @@ body {
 
 .container {
     color: white;
-    font-family: 'Roboto Mono'!important;
+    font-family: 'PixelCode'!important;
     text-align: center;
     padding: 15%;
 }
