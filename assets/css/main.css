@@ -2,9 +2,6 @@
 
 :root {
     background-color: #292F36;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 48%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -13,7 +10,6 @@
 
 body {
     width: 90%;
-    background-color: transparent;
 }
 
 .container {
