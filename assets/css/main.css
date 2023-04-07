@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root {
-    background-image: url(../images/1.png);
+    background-color: #292F36;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 48%;
@@ -18,14 +18,14 @@ body {
 
 .container {
     color: white;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Poppins', monospace;
     text-align: center;
     padding: 15%;
 }
 
 .text-name {
     font-size: 400%;
-    color: #fffff
+    color: #ffffff;
 }
 
 .text-desc {
